@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<
-**tanuj-007/tanuj-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my skillsets and valuable aspects
 - 🌱 I’m currently learning Nuclear physics and designing
 - 👯 I’m looking to collaborate on .............
@@ -14,4 +9,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
->
