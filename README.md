@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ich 
+### ich heiße Tanuj Satti 
+element {
+  font-size: 75;
+}
 
 - 🔭 I’m currently working on my skillsets and valuable aspects
 - 🌱 I’m currently learning Nuclear physics and designing
